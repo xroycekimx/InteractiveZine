@@ -1,5 +1,8 @@
 # Interactive Zine
+## The Silver Web
 ###### Small, interactive walk/zine reading based in Unity
+
+![alt text](https://github.com/xroycekimx/InteractiveZine/blob/master/Assets/Images/icon.png "Icon")
 
 ---
 
